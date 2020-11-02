@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview | Jiabin Feng</title>
+    <link>http://feng.cafuc.edu.cn/resourcesbuckup/software-download/</link>
+      <atom:link href="http://feng.cafuc.edu.cn/resourcesbuckup/software-download/index.xml" rel="self" type="application/rss+xml" />
+    <description>Overview</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://feng.cafuc.edu.cn/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Overview</title>
+      <link>http://feng.cafuc.edu.cn/resourcesbuckup/software-download/</link>
+    </image>
+    
+    <item>
+      <title>Software download Resources</title>
+      <link>http://feng.cafuc.edu.cn/resourcesbuckup/software-download/software-download/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0100</pubDate>
+      <guid>http://feng.cafuc.edu.cn/resourcesbuckup/software-download/software-download/</guid>
+      <description>&lt;h1 id=&#34;google&#34;&gt;&lt;strong&gt;Google&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;google学术（要求科学上网，或通过上网插件浏览，插件推荐Ghelper、Google访问助手等 ） &lt;a href=&#34;https://scholar.google.com/&#34;&gt;https://scholar.google.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;google搜索 &lt;a href=&#34;https://www.google.com.hk/&#34;&gt;https://www.google.com.hk/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;需要搜索可下载的文献时，可在搜索字段最后添加 filetype:pdf&lt;/p&gt;
+&lt;h1 id=&#34;scopus&#34;&gt;&lt;strong&gt;Scopus&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;scupus &lt;a href=&#34;https://www.scopus.com/&#34;&gt;https://www.scopus.com/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;web-of-science&#34;&gt;&lt;strong&gt;Web of science&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;web of science &lt;a href=&#34;https://webofknowledge.com&#34;&gt;https://webofknowledge.com&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;sci-hub&#34;&gt;&lt;strong&gt;Sci-hub&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Sci-hub&lt;/strong&gt;是一个在线数据库，其上提供7600万篇&lt;a href=&#34;https://zh.wikipedia.org/wiki/%e7%a7%91%e5%ad%b8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;科学&lt;/a&gt;&lt;a href=&#34;https://zh.wikipedia.org/wiki/%e5%ad%a6%e6%9c%af%e5%87%ba%e7%89%88&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;学术论文&lt;/a&gt;和文章[&lt;a href=&#34;https://zh.wikipedia.org/wiki/Sci-Hub#cite_note-:1-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1]&lt;/a&gt;。网站透过“&lt;a href=&#34;https://zh.wikipedia.org/wiki/.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;.edu&lt;/a&gt;”&lt;a href=&#34;https://zh.wikipedia.org/wiki/%e4%bb%a3%e7%90%86%e4%bc%ba%e6%9c%8d%e5%99%a8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;代理服务器&lt;/a&gt;访问相关页面，每天会上传新的论文文章[&lt;a href=&#34;https://zh.wikipedia.org/wiki/Sci-Hub#cite_note-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2]&lt;/a&gt;[&lt;a href=&#34;https://zh.wikipedia.org/wiki/Sci-Hub#cite_note-:0-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3]&lt;/a&gt;[&lt;a href=&#34;https://zh.wikipedia.org/wiki/Sci-Hub#cite_note-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;4]&lt;/a&gt;。2011年，&lt;a href=&#34;https://zh.wikipedia.org/wiki/%e5%93%88%e8%90%a8%e5%85%8b%e6%96%af%e5%9d%a6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;哈萨克斯坦&lt;/a&gt;研究生&lt;a href=&#34;https://zh.wikipedia.org/wiki/%e4%ba%9e%e6%ad%b7%e7%8f%8a%e5%8d%93%c2%b7%e8%89%be%e7%88%be%e5%b7%b4%e9%87%91&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;亚历山德拉·埃尔巴金&lt;/a&gt;因为研究论文成本过高，每篇论文在&lt;a href=&#34;https://zh.wikipedia.org/wiki/%e4%bb%98%e8%b2%bb%e7%89%86&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;付费墙&lt;/a&gt;机制（Paywall）下通常需要花费30美元，而决定成立Sci-Hub[&lt;a href=&#34;https://zh.wikipedia.org/wiki/Sci-Hub#cite_note-:0-3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;3]&lt;/a&gt;[&lt;a href=&#34;https://zh.wikipedia.org/wiki/Sci-Hub#cite_note-5&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;5]&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sci-hub&lt;/strong&gt; 通过PMID或者DOI号识别论文，因此通过Sci-hub 下载论文的关键是找到论文的PMID或者DOI号。&lt;/p&gt;
+&lt;h2 id=&#34;pmid-or-doi-number&#34;&gt;PMID or DOI Number&lt;/h2&gt;
+&lt;p&gt;百度学术 &lt;a href=&#34;https://xueshu.baidu.com/&#34;&gt;https://xueshu.baidu.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;期刊论文首页&lt;/p&gt;
+&lt;p&gt;Researchgate &lt;a href=&#34;https://www.researchgate.net/&#34;&gt;https://www.researchgate.net/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;sci-hub-1&#34;&gt;Sci-hub&lt;/h2&gt;
+&lt;p&gt;网页端&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://scihub.wikicn.top/&#34;&gt;https://scihub.wikicn.top/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sci-hub.ren/&#34;&gt;https://sci-hub.ren/&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;桌面版&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/88308094&#34;&gt;https://zhuanlan.zhihu.com/p/88308094&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://zhuanlan.zhihu.com/p/31809890&#34;&gt;https://zhuanlan.zhihu.com/p/31809890&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;微信接口(推荐)&lt;/p&gt;
+&lt;p&gt;关注公众号：SCI文献机器人，微信号：scihubot&lt;/p&gt;
+&lt;p&gt;直接将DOI号留言给公众号，公众号就会返回下载链接。&lt;/p&gt;
+&lt;h1 id=&#34;library-genesis&#34;&gt;&lt;strong&gt;Library Genesis&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;强烈推荐Library Genesis，不仅可以下文献，还可以下书籍等。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://gen.lib.rus.ec/&#34;&gt;http://gen.lib.rus.ec/&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;中文文献&#34;&gt;&lt;strong&gt;中文文献&lt;/strong&gt;&lt;/h1&gt;
+&lt;p&gt;知网（淘宝买账号挺便宜的）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.cnki.net/&#34;&gt;https://www.cnki.net/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

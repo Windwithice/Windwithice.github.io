@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Li Ding | Jiabin Feng</title>
+    <link>http://feng.cafuc.edu.cn/author/li-ding/</link>
+      <atom:link href="http://feng.cafuc.edu.cn/author/li-ding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Li Ding</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Sep 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://feng.cafuc.edu.cn/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Li Ding</title>
+      <link>http://feng.cafuc.edu.cn/author/li-ding/</link>
+    </image>
+    
+    <item>
+      <title>Magnetoactive elastomer/PVDF composite film based magnetically controllable actuator with real-time deformation feedback property</title>
+      <link>http://feng.cafuc.edu.cn/publication/cpa2017/</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>http://feng.cafuc.edu.cn/publication/cpa2017/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to #import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Magnetic/conductive composite fibre: A multifunctional strain sensor with magnetically driven property</title>
+      <link>http://feng.cafuc.edu.cn/publication/ding2017/</link>
+      <pubDate>Fri, 28 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://feng.cafuc.edu.cn/publication/ding2017/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to #import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

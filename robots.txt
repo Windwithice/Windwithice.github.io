@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://feng.cafuc.edu.cn/sitemap.xml
